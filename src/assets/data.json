@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ram",
+    "city": "Visakhapatnam",
+    "age": 24
+  },
+  {
+    "name": "Ramesh",
+    "city": "Chennai",
+    "age": 24
+  },
+  {
+    "name": "Giridhar",
+    "city": "Visakhapatnam",
+    "age": 24
+  },
+  {
+    "name": "Raju",
+    "city": "Visakhapatnam",
+    "age": 24
+  },
+  {
+    "name": "Sekhar",
+    "city": "Visakhapatnam",
+    "age": 25
+  }
+]
